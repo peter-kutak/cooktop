@@ -17,7 +17,7 @@ pripojenie dosky do siete dava skaredy impulz, ze ostatne zdroje vypadavaju TV/r
 
 daisy chain: control board - board2 - board1
 
-9600 baud ttl signal on bus
+9600 baud 8Even1 ttl signal on bus
 
 
 turned off:
